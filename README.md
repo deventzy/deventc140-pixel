@@ -73,14 +73,14 @@ Hi! I’m **Mikhael Devent Chang**, a Grade 11 **Software and Game Development (
 
 I’m passionate about **software engineering, web development, and creating applications that solve real-world problems**. I enjoy turning ideas into functional products, learning new technologies, and improving my skills one project at a time.
 
-### 🖥️ `mikhael.config.ts`
+### 🖥️ `devent.config.ts`
 
 ```ts
-// ═══════════════════════════════════════════════
-//  Mikhael Devent Chang — Developer Configuration
-// ═══════════════════════════════════════════════
+// ═══════════════════════════════════════════════ \\
+//  Mikhael Devent Chang — Developer Configuration \\
+// ═══════════════════════════════════════════════ \\
 
-const mikhael: Developer = {
+const devent: Developer = {
   name: "Mikhael Devent Chang",
   role: "Aspiring Software Engineer",
   education: "Grade 11 PPLG Student",
@@ -137,11 +137,11 @@ export default mikhael;
 
 ```text
 ┌──────────────────────────────────────────────────────────────┐
-│  ● ● ●   mikhael.config.ts — Visual Studio Code              │
+│  ● ● ●   devent.config.ts — Visual Studio Code              │
 ├──────────────────────────────────────────────────────────────┤
 │  📁 mikhael-profile   📄 about.ts   📄 skills.ts   📄 goals.ts │
 ├──────────────────────────────────────────────────────────────┤
-│  const mikhael: Developer = {                                │
+│  const devent: Developer = {                                │
 │      name: "Mikhael Devent Chang",                           │
 │      role: "Aspiring Software Engineer",                     │
 │      location: "Indonesia 🇮🇩",                               │
