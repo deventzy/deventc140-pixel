@@ -97,7 +97,7 @@ const devent: Developer = {
     "JavaScript",
     "PHP",
     "MySQL",
-    "Next.js",
+    "Python",
     "Database Management"
   ],
 
