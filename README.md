@@ -128,7 +128,7 @@ A web-based application designed to help manage Purchase Orders, product databas
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=deventc140-pixel&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=deventzy&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%" />
 
 </div>
 
@@ -164,7 +164,7 @@ A web-based application designed to help manage Purchase Orders, product databas
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/deventc140-pixel">
+<a href="https://github.com/deventzy">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
