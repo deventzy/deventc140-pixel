@@ -1,32 +1,29 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    ✨ LUXURY HERO SECTION ✨                 -->
+<!--                ✨ LUXURY VS CODE PROFILE ✨                  -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050510,25:12123A,50:4C1D95,75:7747D9,100:C4B5FD&text=MIKHAEL%20DEVENT%20CHANG&fontSize=42&fontColor=FFFFFF&fontAlignY=34&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20WEB%20DEVELOPER%20%E2%80%A2%20CREATOR&descSize=17&descAlignY=58&descColor=C4B5FD&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050510,20:0F0F23,45:1E1B4B,70:4C1D95,90:7747D9,100:C4B5FD&text=MIKHAEL%20DEVENT%20CHANG&fontSize=42&fontColor=FFFFFF&fontAlignY=33&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20WEB%20DEVELOPER%20%E2%80%A2%20CREATOR&descSize=17&descAlignY=57&descColor=C4B5FD&animation=twinkling" />
 
 <br/>
 
-<!-- ⚡ Animated status -->
-<img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" alt="Status" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-22C55E?style=for-the-badge&logo=vercel&logoColor=white" alt="Status" />
 <img src="https://img.shields.io/badge/FOCUS-WEB%20DEVELOPMENT-7747D9?style=for-the-badge&logo=codeium&logoColor=white" alt="Focus" />
-<img src="https://img.shields.io/badge/LOCATION-INDONESIA%20%F0%9F%87%AE%F0%9F%87%A9-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/EDITOR-VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Editor" />
+<img src="https://img.shields.io/badge/LOCATION-INDONESIA%20%F0%9F%87%AE%F0%9F%87%A9-EA4335?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
 
 <br/><br/>
 
-<!-- ⌨️ Main typing effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2400&pause=900&color=C4B5FD&center=true&vCenter=true&width=780&height=70&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;Web+Developer+%7C+PPLG+Student+%F0%9F%92%BB;Turning+Ideas+Into+Real+Applications+%E2%9A%A1;Building+Something+Amazing+%F0%9F%9B%A0%EF%B8%8F;Dream+Big.+Build+Smart.+Keep+Coding.+%F0%9F%92%9C" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=2300&pause=850&color=C4B5FD&center=true&vCenter=true&width=780&height=70&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;Web+Developer+%7C+PPLG+Student+%F0%9F%92%BB;Turning+Ideas+Into+Real+Applications+%E2%9A%A1;Building+Something+Amazing+%F0%9F%9B%A0%EF%B8%8F;Dream+Big.+Build+Smart.+Keep+Coding.+%F0%9F%92%9C" alt="Typing SVG" />
 
 <br/>
 
-<!-- 🌈 Animated divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 <br/>
 
-<!-- 🎇 Marquee effect -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=700&color=7747D9&center=true&vCenter=true&width=700&lines=%E2%9C%A8+WELCOME+TO+MY+GITHUB+PROFILE+%E2%9C%A8;%F0%9F%9A%80+EXPLORING+CODE+%E2%80%A2+CREATIVITY+%E2%80%A2+TECHNOLOGY;%F0%9F%92%BB+BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME;%F0%9F%8C%9F+ALWAYS+LEARNING+%E2%80%A2+ALWAYS+GROWING" alt="Marquee text" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2100&pause=650&color=7747D9&center=true&vCenter=true&width=720&lines=%E2%9C%A8+WELCOME+TO+MY+GITHUB+PROFILE+%E2%9C%A8;%F0%9F%9A%80+EXPLORING+CODE+%E2%80%A2+CREATIVITY+%E2%80%A2+TECHNOLOGY;%F0%9F%92%BB+BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME;%F0%9F%8C%9F+ALWAYS+LEARNING+%E2%80%A2+ALWAYS+GROWING" alt="Marquee text" />
 
 <br/><br/>
 
@@ -61,7 +58,7 @@
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       👨‍💻 ABOUT ME                          -->
+<!--                  👨‍💻 ABOUT ME — VS CODE STYLE               -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 👨‍💻 About Me
@@ -74,19 +71,86 @@
 
 Hi! I’m **Mikhael Devent Chang**, a Grade 11 **Software and Game Development (PPLG)** student from Indonesia 🇮🇩.
 
-I’m passionate about **software engineering, web development, and creating applications that solve real-world problems**. I enjoy turning ideas into functional products, learning new technologies, and continuously improving my skills.
+I’m passionate about **software engineering, web development, and creating applications that solve real-world problems**. I enjoy turning ideas into functional products, learning new technologies, and improving my skills one project at a time.
+
+### 🖥️ `mikhael.config.ts`
 
 ```ts
-const mikhael = {
+// ═══════════════════════════════════════════════
+//  Mikhael Devent Chang — Developer Configuration
+// ═══════════════════════════════════════════════
+
+const mikhael: Developer = {
   name: "Mikhael Devent Chang",
   role: "Aspiring Software Engineer",
   education: "Grade 11 PPLG Student",
   location: "Indonesia 🇮🇩",
-  focus: ["Web Development", "Software Engineering", "Problem Solving"],
-  learning: ["JavaScript", "PHP", "MySQL", "Next.js"],
-  interests: ["Web Apps", "Game Development", "UI/UX", "Technology"],
-  mindset: "Dream Big. Build Smart. Keep Coding."
+
+  focus: [
+    "Web Development",
+    "Software Engineering",
+    "Problem Solving",
+    "Application Development"
+  ],
+
+  currentlyLearning: [
+    "JavaScript",
+    "PHP",
+    "MySQL",
+    "Next.js",
+    "Database Management"
+  ],
+
+  interests: [
+    "Web Applications",
+    "Game Development",
+    "UI/UX Design",
+    "Technology",
+    "Automation"
+  ],
+
+  tools: {
+    editor: "Visual Studio Code",
+    versionControl: "Git & GitHub",
+    design: ["Figma", "Canva"],
+    hardware: "Arduino"
+  },
+
+  goals: {
+    shortTerm: "Build more real-world web applications",
+    longTerm: "Become a professional Software Engineer"
+  },
+
+  status: {
+    availableForCollaboration: true,
+    alwaysLearning: true,
+    buildingSomethingAmazing: true
+  },
+
+  motto: "Dream Big. Build Smart. Keep Coding."
 };
+
+export default mikhael;
+```
+
+### 🧩 VS Code Interface
+
+```text
+┌──────────────────────────────────────────────────────────────┐
+│  ● ● ●   mikhael.config.ts — Visual Studio Code              │
+├──────────────────────────────────────────────────────────────┤
+│  📁 mikhael-profile   📄 about.ts   📄 skills.ts   📄 goals.ts │
+├──────────────────────────────────────────────────────────────┤
+│  const mikhael: Developer = {                                │
+│      name: "Mikhael Devent Chang",                           │
+│      role: "Aspiring Software Engineer",                     │
+│      location: "Indonesia 🇮🇩",                               │
+│      focus: ["Web Development", "Software Engineering"],      │
+│      status: "Always Learning 🚀"                             │
+│  };                                                          │
+├──────────────────────────────────────────────────────────────┤
+│  ⚡ TypeScript   UTF-8   LF   Spaces: 2   Ln 18, Col 24       │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 <br/>
@@ -111,14 +175,14 @@ const mikhael = {
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Code.+Create.+Learn.+Repeat.+%F0%9F%94%81;Every+line+of+code+is+a+step+forward.;Turning+imagination+into+interfaces.+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=850&color=A78BFA&center=true&vCenter=true&width=660&lines=Code.+Create.+Learn.+Repeat.+%F0%9F%94%81;Every+line+of+code+is+a+step+forward.;Turning+imagination+into+interfaces.+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  ⚡ TECH STACK & TOOLS                       -->
+<!--                 ⚡ TECH STACK & TOOLS                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## ⚡ Tech Stack & Tools
@@ -203,7 +267,7 @@ const mikhael = {
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    📈 SKILL PROGRESS                        -->
+<!--                    📈 SKILL PROGRESS                         -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📈 Skill Progress
@@ -234,7 +298,7 @@ UI/UX Design      ████████░░░░░░░░░░░░�
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  📊 GITHUB ANALYTICS                        -->
+<!--                   📊 GITHUB ANALYTICS                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
@@ -264,7 +328,7 @@ UI/UX Design      ████████░░░░░░░░░░░░�
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                 🐍 CONTRIBUTION ACTIVITY                    -->
+<!--                  🐍 CONTRIBUTION ACTIVITY                    -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Activity
@@ -282,7 +346,7 @@ UI/UX Design      ████████░░░░░░░░░░░░�
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     💭 MY MINDSET                           -->
+<!--                      💭 MY MINDSET                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 💭 My Mindset
@@ -299,14 +363,14 @@ UI/UX Design      ████████░░░░░░░░░░░░�
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2400&pause=800&color=C4B5FD&center=true&vCenter=true&width=680&height=60&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%92%9C;Keep+Creating+%E2%9C%A8;Keep+Coding+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2300&pause=750&color=C4B5FD&center=true&vCenter=true&width=680&height=60&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%92%9C;Keep+Creating+%E2%9C%A8;Keep+Coding+%F0%9F%92%BB" alt="Typing SVG" />
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   🌐 CONNECT WITH ME                        -->
+<!--                    🌐 CONNECT WITH ME                        -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🌐 Connect With Me
@@ -338,12 +402,12 @@ UI/UX Design      ████████░░░░░░░░░░░░�
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       ✨ FOOTER ✨                           -->
+<!--                        ✨ FOOTER ✨                           -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:C4B5FD,30:7747D9,60:4C1D95,100:050510&section=footer" alt="Footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=160&color=0:C4B5FD,25:7747D9,55:4C1D95,80:1E1B4B,100:050510&section=footer" alt="Footer wave" />
 
 ### 💜 Thanks for Visiting My Profile!
 
@@ -351,7 +415,7 @@ UI/UX Design      ████████░░░░░░░░░░░░�
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%92%9C;Keep+Creating+%E2%9C%A8;Keep+Coding+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=850&color=A78BFA&center=true&vCenter=true&width=640&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%92%9C;Keep+Creating+%E2%9C%A8;Keep+Coding+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br/><br/>
 
