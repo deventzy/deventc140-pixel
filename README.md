@@ -110,13 +110,13 @@ A web-based application designed to help manage Purchase Orders, product databas
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deventc140-pixel&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deventzy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img width="49%" src="https://streak-stats.demolab.com/?user=deventc140-pixel&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=deventzy&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deventc140-pixel&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deventzy&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
