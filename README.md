@@ -1,41 +1,139 @@
-
-<!-- =============== HEADER =============== -->
+<!-- =============== HERO =============== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:080816,45:24245C,100:7747D9&text=MIKHAEL%20DEVENT%20CHANG&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=ASPIRING%20SOFTWARE%20ENGINEER&descSize=15&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:080816,45:24245C,100:7747D9&text=MIKHAEL%20DEVENT%20CHANG&fontSize=38&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20ENGINEER%20IN%20THE%20MAKING&descSize=16&descAlignY=56&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Aspiring+Software+Engineer;Web+Developer+%7C+PPLG+Student;Turning+Ideas+Into+Code;Building+Something+Amazing+%F0%9F%9A%80" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Aspiring+Software+Engineer;Web+Developer+%7C+PPLG+Student;Turning+Ideas+Into+Real+Applications;Building+Cool+Things+With+Code+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=deventzy&style=for-the-badge&color=7747D9&label=PROFILE+VIEWS" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/deventzy?style=for-the-badge&color=7747D9&label=FOLLOWERS&logo=github&logoColor=white" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/deventzy?style=for-the-badge&color=7747D9&label=TOTAL+STARS&logo=github&logoColor=white" alt="GitHub stars" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=deventzy&style=for-the-badge&color=7747D9&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/deventzy?style=for-the-badge&color=7747D9&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/deventzy?style=for-the-badge&color=7747D9&label=TOTAL+STARS" />
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/manzyy1990)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/devent-t)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deventc140@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deventzy)
 
 </div>
 
 ---
 
-<!-- =============== ABOUT ME =============== -->
+<!-- =============== ABOUT =============== -->
 
 ## 👨‍💻 About Me
 
-Hello! I'm **Mikhael Devent Chang**, a Grade 11 Software and Game Development (PPLG) student from Indonesia 🇮🇩.
+Hi, I’m **Mikhael Devent Chang** — a Grade 11 **Software and Game Development (PPLG)** student from Indonesia 🇮🇩.
 
-I'm passionate about software engineering, web development, and creating applications that solve real-world problems.
+I enjoy building web applications, solving problems through code, and turning random ideas into something functional. My goal is to become a professional **Software Engineer** and keep creating projects that are useful, clean, and well-designed.
 
-- 💻 Currently working on personal web applications and software projects.
-- 🎯 Aspiring to become a professional Software Engineer.
-- 🌱 Currently learning HTML, CSS, JavaScript, PHP, MySQL, and database management.
-- 🤝 Looking to collaborate on web development and software engineering projects.
-- 🧠 Interested in problem-solving, application development, and software architecture.
-- 🚀 Always exploring new technologies and improving my programming skills.
-- ⚡ Fun fact: I enjoy turning ideas into functional applications through code.
+```ts
+const mikhael = {
+  role: "Aspiring Software Engineer",
+  focus: ["Web Development", "Software Engineering", "Problem Solving"],
+  currentlyLearning: ["JavaScript", "PHP", "MySQL", "Next.js"],
+  interests: ["Web Apps", "Game Development", "UI/UX", "Automation"],
+  mindset: "Dream Big. Build Smart. Keep Coding."
+};
+```
+
+- 💻 Building personal web applications and software projects  
+- 🎯 Aiming to become a professional Software Engineer  
+- 🌱 Learning HTML, CSS, JavaScript, PHP, MySQL, and database management  
+- 🤝 Open to collaborating on web development and software projects  
+- 🚀 Always exploring new technologies and improving my skills  
 
 ---
 
-<!-- =============== CONTRIBUTION SNAKE =============== -->
+<!-- =============== TECH STACK =============== -->
+
+## ⚡ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+</p>
+
+### 🗄️ Backend & Database
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
+
+### 🛠️ Tools
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+</p>
+
+---
+
+<!-- =============== PROJECTS =============== -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech |
+|---|---|---|
+| **Project Name** | Short description of what it does and the problem it solves. | HTML, CSS, JS |
+| **Project Name** | Short description of what it does and the problem it solves. | PHP, MySQL |
+| **Project Name** | Short description of what it does and the problem it solves. | Next.js, Firebase |
+
+</div>
+
+> 🔗 Tambahkan link repositori atau demo di tabel ini agar profil terlihat lebih profesional.
+
+---
+
+<!-- =============== GITHUB STATS =============== -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=deventzy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+
+<img height="165" src="https://streak-stats.demolab.com/?user=deventzy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+
+<br/><br/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deventzy&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+
+</div>
+
+---
+
+<!-- =============== ACTIVITY =============== -->
 
 ## 🐍 Contribution Activity
 
@@ -47,130 +145,40 @@ I'm passionate about software engineering, web development, and creating applica
 
 ---
 
----
-
-<!-- =============== TECH STACK =============== -->
-
-## ⚡ Tech Stack & Tools
-
-### 💻 Programming Languages
-
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-</p>
-
-### 🎨 Frontend Development
-
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-</p>
-
-### 🗄️ Database & Backend
-
-<p align="left">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-</p>
-
-### 🛠️ Development Tools
-
-<p align="left">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</p>
-
-### 🎨 Design Tools
-
-<p align="left">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</p>
-
----
-
-### 🌐 Other
-<p>
-<img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-<img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
-<img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riotgames&logoColor=white" />
-<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubisoft-000000?style=for-the-badge&logo=ubisoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-<img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" />
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</p>
-
----
-
-<!-- =============== GITHUB STATS =============== -->
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deventzy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=deventzy&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deventzy&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
 <!-- =============== CONNECT =============== -->
 
-## 🌐 Connect With Me
+## 🌐 Let’s Connect
 
 <div align="center">
 
 <a href="https://instagram.com/manzyy1990">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
 
 <a href="https://linkedin.com/in/devent-t">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="mailto:deventc140@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <a href="https://github.com/deventzy">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
 </div>
 
 ---
 
-<!-- =============== FOOTER =============== -->
-
 <div align="center">
 
-### 💜 Thanks for Visiting My Profile!
+### 💜 Thanks for visiting my profile
 
-**"Dream Big. Build Smart. Keep Coding."**
+**“Dream Big. Build Smart. Keep Coding.”**
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=450&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%92%9C" />
-
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7747D9,50:24245C,100:080816&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7747D9,50:24245C,100:080816&height=130&section=footer" alt="Footer" />
 
 </div>
