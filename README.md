@@ -9,9 +9,9 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=deventc140-pixel&style=for-the-badge&color=7747D9&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/deventc140-pixel?style=for-the-badge&color=7747D9&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/deventc140-pixel?style=for-the-badge&color=7747D9&label=TOTAL+STARS" />
+<img src="https://komarev.com/ghpvc/?username=deventzy&style=for-the-badge&color=7747D9&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/deventzy?style=for-the-badge&color=7747D9&label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/deventzy?style=for-the-badge&color=7747D9&label=TOTAL+STARS" />
 
 </div>
 
@@ -117,18 +117,6 @@ A web-based application designed to help manage Purchase Orders, product databas
 <br/><br/>
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deventzy&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-<!-- =============== TROPHIES =============== -->
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=deventzy&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10" width="100%" />
 
 </div>
 
