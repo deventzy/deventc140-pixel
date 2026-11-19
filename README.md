@@ -35,6 +35,20 @@ I'm passionate about software engineering, web development, and creating applica
 
 ---
 
+<!-- =============== CONTRIBUTION SNAKE =============== -->
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/deventc140-pixel/deventc140-pixel/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+---
+
 <!-- =============== TECH STACK =============== -->
 
 ## ⚡ Tech Stack & Tools
@@ -119,20 +133,6 @@ A web-based application designed to help manage Purchase Orders, product databas
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deventzy&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
-
-<!-- =============== CONTRIBUTION SNAKE =============== -->
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/deventc140-pixel/deventc140-pixel/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub Contribution Snake" />
-
-</div>
-
----
 
 <!-- =============== CONNECT =============== -->
 
