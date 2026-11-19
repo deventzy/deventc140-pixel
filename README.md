@@ -100,21 +100,18 @@ I'm passionate about software engineering, web development, and creating applica
 
 ---
 
-<!-- =============== PROJECTS =============== -->
-
-## 🚀 My Projects
-
-### ⚖️ Web-Based Weight Calculator
-
-A web application designed to calculate weight using specific formulas and automatic calculations.
-
-**Technologies:** HTML, CSS, JavaScript
-
-### 📋 Purchase Order Management System
-
-A web-based application designed to help manage Purchase Orders, product databases, supplier information, and order records.
-
-**Technologies:** HTML, CSS, JavaScript
+### 🌐 Other
+<p>
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
+<img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riotgames&logoColor=white" />
+<img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubisoft-000000?style=for-the-badge&logo=ubisoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Epic_Games-313131?style=for-the-badge&logo=epicgames&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+</p>
 
 ---
 
