@@ -3,7 +3,13 @@ Hi there! 👋
 I'm **Mikhael Devent Chang**, a Grade 11 Software and Game Development (PPLG) student from Indonesia. I'm passionate about web development and always excited to learn new technologies and build useful projects.
 
 # 💫 About Me:
-- 💻 I’m currently working on personal portfolio and school web projects.<br>- 🤝 I’m looking to collaborate on web development projects.<br>- 🙌 I’m looking for help with React, Laravel, and backend development.<br>- 🌱 I’m currently learning HTML, CSS, JavaScript, PHP, MySQL, and React.<br>- 💬 Ask me about web development, PHP, or JavaScript.<br>- ⚡ Fun fact: I enjoy creating modern websites and solving coding problems.
+- 💻 I'm currently working on personal web applications and software development projects.
+- 🤝 I'm looking to collaborate on web development and software engineering projects.
+- 🌱 I'm currently learning HTML, CSS, JavaScript, PHP, MySQL, and database management.
+- 🚀 I'm interested in building applications and developing useful software solutions.
+- 💬 Ask me about HTML, CSS, JavaScript, and web development.
+- 🔍 I'm always exploring new technologies and improving my programming skills.
+- ⚡ Fun fact: I enjoy turning ideas into functional applications through code.
 
 
 --- 
