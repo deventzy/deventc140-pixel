@@ -1,21 +1,34 @@
-<!-- ═══════════════════════════════════════════ -->
-<!--                 HERO SECTION                -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    ✨ LUXURY HERO SECTION ✨                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:080816,40:1B1B3A,70:4C1D95,100:7747D9&text=MIKHAEL%20DEVENT%20CHANG&fontSize=40&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20WEB%20DEVELOPER%20%E2%80%A2%20CREATOR&descSize=16&descAlignY=58&descColor=A78BFA&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:050510,25:12123A,50:4C1D95,75:7747D9,100:C4B5FD&text=MIKHAEL%20DEVENT%20CHANG&fontSize=42&fontColor=FFFFFF&fontAlignY=34&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20WEB%20DEVELOPER%20%E2%80%A2%20CREATOR&descSize=17&descAlignY=58&descColor=C4B5FD&animation=twinkling" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2600&pause=1100&color=A78BFA&center=true&vCenter=true&width=760&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;Web+Developer+%7C+PPLG+Student+%F0%9F%92%BB;Turning+Ideas+Into+Code+%E2%9A%A1;Building+Something+Amazing+%F0%9F%9B%A0%EF%B8%8F;Keep+Learning.+Keep+Building.+Keep+Growing.+%F0%9F%92%9C" alt="Typing SVG" />
+<!-- ⚡ Animated status -->
+<img src="https://img.shields.io/badge/STATUS-ONLINE-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" alt="Status" />
+<img src="https://img.shields.io/badge/FOCUS-WEB%20DEVELOPMENT-7747D9?style=for-the-badge&logo=codeium&logoColor=white" alt="Focus" />
+<img src="https://img.shields.io/badge/LOCATION-INDONESIA%20%F0%9F%87%AE%F0%9F%87%A9-red?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+
+<br/><br/>
+
+<!-- ⌨️ Main typing effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2400&pause=900&color=C4B5FD&center=true&vCenter=true&width=780&height=70&lines=Aspiring+Software+Engineer+%F0%9F%9A%80;Web+Developer+%7C+PPLG+Student+%F0%9F%92%BB;Turning+Ideas+Into+Real+Applications+%E2%9A%A1;Building+Something+Amazing+%F0%9F%9B%A0%EF%B8%8F;Dream+Big.+Build+Smart.+Keep+Coding.+%F0%9F%92%9C" alt="Typing SVG" />
 
 <br/>
 
-<!-- ✨ Animated divider -->
+<!-- 🌈 Animated divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 <br/>
+
+<!-- 🎇 Marquee effect -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2200&pause=700&color=7747D9&center=true&vCenter=true&width=700&lines=%E2%9C%A8+WELCOME+TO+MY+GITHUB+PROFILE+%E2%9C%A8;%F0%9F%9A%80+EXPLORING+CODE+%E2%80%A2+CREATIVITY+%E2%80%A2+TECHNOLOGY;%F0%9F%92%BB+BUILDING+THE+FUTURE+ONE+LINE+AT+A+TIME;%F0%9F%8C%9F+ALWAYS+LEARNING+%E2%80%A2+ALWAYS+GROWING" alt="Marquee text" />
+
+<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=deventzy&style=for-the-badge&color=7747D9&label=PROFILE+VIEWS" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/deventzy?style=for-the-badge&color=7747D9&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers" />
@@ -39,13 +52,17 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:7747D9,50:C4B5FD,100:050510&section=header" width="100%" alt="Neon line" />
+
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════ -->
-<!--                  ABOUT ME                   -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       👨‍💻 ABOUT ME                          -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 👨‍💻 About Me
 
@@ -57,7 +74,7 @@
 
 Hi! I’m **Mikhael Devent Chang**, a Grade 11 **Software and Game Development (PPLG)** student from Indonesia 🇮🇩.
 
-I’m passionate about **software engineering, web development, and building applications that solve real-world problems**. I love turning ideas into functional products, learning new technologies, and improving my skills one project at a time.
+I’m passionate about **software engineering, web development, and creating applications that solve real-world problems**. I enjoy turning ideas into functional products, learning new technologies, and continuously improving my skills.
 
 ```ts
 const mikhael = {
@@ -68,7 +85,7 @@ const mikhael = {
   focus: ["Web Development", "Software Engineering", "Problem Solving"],
   learning: ["JavaScript", "PHP", "MySQL", "Next.js"],
   interests: ["Web Apps", "Game Development", "UI/UX", "Technology"],
-  motto: "Dream Big. Build Smart. Keep Coding."
+  mindset: "Dream Big. Build Smart. Keep Coding."
 };
 ```
 
@@ -76,9 +93,9 @@ const mikhael = {
 
 <div align="center">
 
-| 💡 | 🎯 | 🌱 | 🤝 |
-|:---:|:---:|:---:|:---:|
-| **Creative Thinker** | **Future Software Engineer** | **Always Learning** | **Open to Collaborate** |
+| 💡 | 🎯 | 🌱 | 🤝 | 🚀 |
+|:---:|:---:|:---:|:---:|:---:|
+| **Creative Thinker** | **Future Software Engineer** | **Always Learning** | **Open to Collaborate** | **Building the Future** |
 
 </div>
 
@@ -90,11 +107,19 @@ const mikhael = {
 - 🚀 Always exploring new technologies and improving my programming skills  
 - ⚡ Fun fact: I enjoy turning ideas into functional applications through code  
 
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Code.+Create.+Learn.+Repeat.+%F0%9F%94%81;Every+line+of+code+is+a+step+forward.;Turning+imagination+into+interfaces.+%E2%9C%A8" alt="Typing SVG" />
+
+</div>
+
 ---
 
-<!-- ═══════════════════════════════════════════ -->
-<!--              TECH STACK & TOOLS             -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  ⚡ TECH STACK & TOOLS                       -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## ⚡ Tech Stack & Tools
 
@@ -177,9 +202,9 @@ const mikhael = {
 
 ---
 
-<!-- ═══════════════════════════════════════════ -->
-<!--              SKILL PROGRESS                 -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                    📈 SKILL PROGRESS                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📈 Skill Progress
 
@@ -200,13 +225,17 @@ Next.js           ████████░░░░░░░░░░░░�
 UI/UX Design      ████████░░░░░░░░░░░░░░░░  35%
 ```
 
+<div align="center">
+
 > ⚡ *Learning is a journey — every line of code brings me closer to becoming a better developer.*
+
+</div>
 
 ---
 
-<!-- ═══════════════════════════════════════════ -->
-<!--               GITHUB ANALYTICS              -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                  📊 GITHUB ANALYTICS                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Analytics
 
@@ -216,9 +245,9 @@ UI/UX Design      ████████░░░░░░░░░░░░�
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=deventzy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=deventzy&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
 
-<img height="170" src="https://streak-stats.demolab.com/?user=deventzy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img height="175" src="https://streak-stats.demolab.com/?user=deventzy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br/><br/>
 
@@ -226,13 +255,17 @@ UI/UX Design      ████████░░░░░░░░░░░░�
 
 <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=deventzy&theme=tokyonight&hide_border=true" alt="Contribution graph" />
 
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deventzy&theme=tokyonight" alt="Profile summary" />
+
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════ -->
-<!--            CONTRIBUTION SNAKE               -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                 🐍 CONTRIBUTION ACTIVITY                    -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🐍 Contribution Activity
 
@@ -248,9 +281,9 @@ UI/UX Design      ████████░░░░░░░░░░░░�
 
 ---
 
-<!-- ═══════════════════════════════════════════ -->
-<!--                 QUOTE SECTION               -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                     💭 MY MINDSET                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 💭 My Mindset
 
@@ -260,21 +293,21 @@ UI/UX Design      ████████░░░░░░░░░░░░�
 
 <br/>
 
-> ### “Dream Big. Build Smart. Keep Coding.”
+> ### ✨ “Dream Big. Build Smart. Keep Coding.” ✨
 >
 > *Every great developer started as a beginner who refused to stop learning.*
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%92%9C;Keep+Creating+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2400&pause=800&color=C4B5FD&center=true&vCenter=true&width=680&height=60&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%92%9C;Keep+Creating+%E2%9C%A8;Keep+Coding+%F0%9F%92%BB" alt="Typing SVG" />
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════ -->
-<!--                  CONNECT                    -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                   🌐 CONNECT WITH ME                        -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🌐 Connect With Me
 
@@ -304,11 +337,13 @@ UI/UX Design      ████████░░░░░░░░░░░░�
 
 ---
 
-<!-- ═══════════════════════════════════════════ -->
-<!--                   FOOTER                    -->
-<!-- ═══════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--                       ✨ FOOTER ✨                           -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:C4B5FD,30:7747D9,60:4C1D95,100:050510&section=footer" alt="Footer wave" />
 
 ### 💜 Thanks for Visiting My Profile!
 
@@ -316,10 +351,10 @@ UI/UX Design      ████████░░░░░░░░░░░░�
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=560&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%92%9C;Keep+Creating+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2600&pause=900&color=A78BFA&center=true&vCenter=true&width=620&lines=Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Growing+%F0%9F%92%9C;Keep+Creating+%E2%9C%A8;Keep+Coding+%F0%9F%92%BB" alt="Typing SVG" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7747D9,40:4C1D95,70:1B1B3A,100:080816&height=140&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:050510,50:C4B5FD,100:7747D9&section=footer" width="100%" alt="Neon footer line" />
 
 </div>
